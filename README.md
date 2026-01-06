@@ -26,7 +26,7 @@ UI(Stremlitt) -> API(FastAPI) -> Retriever(Chroma) -> Answer
 ---
 ## 🚀 即將開發
 1. **UI 改善**
-   - 支援檔案上傳（PDF / CSV）
+   - 支援檔案上傳（CSV）
    - 問答歷史紀錄
    - 更友善的互動介面
 2. **功能擴充（規劃中）**
